@@ -2,7 +2,7 @@
 prefix: '&f[&6ezBroadcast&f]'
 
 #interval in seconds between every message
-interval: 30
+interval: 31
 
 #all messages to be broadcasted
 # use \n to print on a new line
